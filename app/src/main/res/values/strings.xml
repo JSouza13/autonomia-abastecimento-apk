@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutonomyFull</string>
+    <string name="abastecimentos">ABASTECIMENTOS</string>
+    <string name="km_l">km / L</string>
+    <string name="excluir">excluir</string>
+    <string name="salvar">salvar</string>
+    <string name="quilometragem_atual">Quilometragem atual</string>
+    <string name="litros_abastecidos">Litros abastecidos</string>
+    <string name="data_do_abastecimento">Data do abastecimento</string>
+    <string name="posto">Posto</string>
+</resources>
